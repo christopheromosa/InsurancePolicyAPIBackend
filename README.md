@@ -32,8 +32,8 @@
 ## Clone the Project
 1. Clone the repository from GitHub or any source.
    ```bash
-     git clone <backend-repo-url>
-      cd <backend-repo-folder>
+     git clone https://github.com/christopheromosa/InsurancePolicyAPIBackend.git
+      cd InsurancePolicyAPIBackend
    ```
 ## Install Dependencies
 1. Restore all dependencies:
